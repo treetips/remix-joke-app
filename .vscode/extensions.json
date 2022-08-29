@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "editorconfig.editorconfig",
+    "formulahendry.auto-rename-tag",
+    "IronGeek.vscode-env",
+    "oderwat.indent-rainbow",
+    "usernamehw.errorlens",
+    "Prisma.prisma",
+    "vadimcn.vscode-lldb",
+    "yzhang.markdown-all-in-one"
+  ]
+}
